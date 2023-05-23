@@ -40,3 +40,12 @@ function incrementarTotal (precio){
     total = total + precio;
     alert("precio a pagar hasta el momento $" +total);
 }
+
+
+
+
+
+
+
+
+
